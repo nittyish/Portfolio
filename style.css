@@ -151,6 +151,13 @@ video {
   object-fit: cover;
   z-index: -1;
 }
+.content {
+      padding: 50px;
+      color: white;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+    }
 
 
 
